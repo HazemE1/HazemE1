@@ -25,6 +25,7 @@
 
 
 ## Stuff I did ⏳:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=HazemE1&theme=chalk">
