@@ -2,7 +2,7 @@
 -->
 
 <div style="width:100%; display:flex;justify-content:center">
-<img align="center" src="https://i.imgur.com/PmrEVik.png" height="" style="border-radius:20px; aign-self:center;" width="80%">
+<img align="center" src="https://i.imgur.com/PmrEVik.png" height="" style="border-radius=20px;" width="100%">
 </div>
 
 <!-- ## Hi 👋, I am Abhishek Choudhary, a technology ❤ enthusiast. -->
