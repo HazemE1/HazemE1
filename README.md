@@ -18,13 +18,11 @@
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: kontakt@hazemelkhalil.com
 - ⚡ Fun fact: Every time you paint a room, it gets a little bit smaller.
-
-
 </p>
 
 
 
-## Stuff I did ⏳:
+##Stuff I did ⏳:
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
