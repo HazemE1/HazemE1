@@ -15,6 +15,7 @@
 
 - 🔭 I’m currently working as freelancer at Ek Tech Solutions, where we focus on gettings starups up and runnning.
 - 🛠️ Developer of https://halkan.se/ and https://assistena.com/
+- 🛠️ SpigotMC plguins can be found here: [Plugins](https://github.com/MinecraftPlugins-Kindak)
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: kontakt@hazemelkhalil.com
 - ⚡ Fun fact: Every time you paint a room, it gets a little bit smaller.
