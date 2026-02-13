@@ -15,11 +15,12 @@
 
 
 
-- 🔭 I’m currently working as freelancer at Ek Tech Solutions, where we focus on gettings starups up and runnning.
+- 🔭 I’m currently working at the swedish geological institutation as a backend developer.
 - 🛠️ Developer of https://halkan.se/ and https://assistena.com/
 - 🛠️ SpigotMC plguins can be found here: [Plugins](https://github.com/MinecraftPlugins-Kindak)
 - 💬 Ask me just about anything. I am happy to help.
 - 📫 How to reach me: kontakt@hazemelkhalil.com
+- [My portfolio](https://hazemelkhalil.com/)
 - ⚡ Fun fact: Every time you paint a room, it gets a little bit smaller.
 </p>
 
@@ -29,9 +30,6 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=HazemE1&theme=chalk">
-</p>
-
 </br>
 <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hazeme1&show_icons=true&theme=tokyonight&count_private=true" height="100%" width="50%" />
